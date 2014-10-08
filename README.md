@@ -4,4 +4,5 @@ ScreenGrab
 GM13 ScreenGrabCheekyBugger Thing
 
 
-See who's watching porn in the steam overlay.
+Look for Wall Hackers in steam overlay.
+This is setup for Admin and Superadmin.
